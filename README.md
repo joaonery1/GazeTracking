@@ -5,7 +5,7 @@
 
 This is a Python (2 and 3) library that provides a **webcam-based eye tracking system**. It gives you the exact position of the pupils and the gaze direction, in real time.
 In addition, you can map pupil position onto screen coordinates, for example, to determine which window the user is looking at.
-User is fixating at the red dots on the screen. The small white dots mark the EPOG estimate.
+User is fixating at the red dots on the screen. After calibration, a screen will open where gaze estimation will be done in real time. Be patiente :)
 
 
 ## Installation
